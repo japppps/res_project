@@ -1,13 +1,14 @@
-# res_project입니다.<a href = "https://github.com/japppps/res_project"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+# res_project입니다.🙏  🔥
+
 
 MVC 패턴으로 제작하였고 
 
 
 현재 서비스 중인 프로젝트 사이트 입니다.
 
-http://java.swq.co.kr/RestProject/memberMain.jsp
 
-# 팀원소개
+
+# 팀원소개🙇
 |이름|깃허브주소|포지션|
 |------|---|---|
 |고승범|https://github.com/ssg4262 , https://github.com/japppps|백엔드|
@@ -16,7 +17,7 @@ http://java.swq.co.kr/RestProject/memberMain.jsp
 
 
 
-# 기술스텍
+# 기술스텍🔨
 |이름|설명|
 |------|---|
 |JAVA|백앤드 프로그래밍언어|
@@ -28,7 +29,7 @@ http://java.swq.co.kr/RestProject/memberMain.jsp
 
 
 
-# 제작파트
+# 제작파트 ⌨️
 |이름|담당파트|
 |------|---|
 |고승범|로그인  ,  로그아웃, 회원가입 ,회원탈퇴..유저부분, 예약전체 , 예약css ,어드민 예약확인 , 매출통계 ,밀키트css,리뷰게시판|
